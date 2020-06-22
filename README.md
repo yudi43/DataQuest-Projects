@@ -1,2 +1,2 @@
 # DataQuest-Projects
-Contains solutions for all the DataQuest missions from "Data Scientist in Python" path.
+Contains solutions for all the DataQuest projects from "Data Scientist in Python" path.
