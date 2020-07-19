@@ -6,3 +6,4 @@
 ##### Project 3 - Exploring Ebay Car Sales Data
 ##### Project 4 - Visualizing Earnings Based On College Majors
 ##### Project 5 - Visualizing The Gender Gap In College Degrees
+##### Project 6 - Clean And Analyze Employee Exit Surveys
