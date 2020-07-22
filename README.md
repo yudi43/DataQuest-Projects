@@ -21,3 +21,7 @@
 ##### Project 16 - Predicting Car Prices
 ##### Project 17 - Predicting House Sale Prices
 ##### Project 18 - Predicting the stock market
+##### Project 19 - Predicting Bike Rentals
+##### 
+##### 
+##### 
