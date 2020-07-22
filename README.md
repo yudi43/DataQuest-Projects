@@ -19,5 +19,5 @@
 ##### Project 14 - Building a Spam Filter with Naive Bayes
 ##### Project 15 - Winning Jeopardy
 ##### Project 16 - Predicting Car Prices
-##### 
+##### Project 17 - Predicting House Sale Prices
 ##### 
